@@ -1,0 +1,2 @@
+cancel order identifier_1
+edit order identifier_1 to 100 @ 9.9
